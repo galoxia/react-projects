@@ -1,0 +1,10 @@
+.twitter-card {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: lightgray;
+    padding: 0.5rem;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+}
+
